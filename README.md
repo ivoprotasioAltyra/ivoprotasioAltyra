@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey Guys 👋
+
+Feel free to notify **[me](mailto:iprotasio@altyra.com?subject=Hello%20from%20GitHub!)** if you think I can help you, I would love to learn something new and assist with the best I know (which isn't much tbf 😅)
 
 <!--
 **ivoprotasioAltyra/ivoprotasioAltyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</br>
+
+**If you feel I helped you a lot, you don't need but if you REAAALLY want to buy me a sandwich, you can click below** 👇
+
+<a href="https://www.buymeacoffee.com/ivoprotasio"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a sandwich!&emoji=🥪&slug=ivoprotasio&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+</br>
+**Thank you!**
