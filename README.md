@@ -1,6 +1,6 @@
 ### Hey Guys 👋
 
-Feel free to notify **[me](mailto:iprotasio@altyra.com?subject=Hello%20from%20GitHub!)** if you think I can help you, I would love to learn something new and assist with the best I know (which isn't much tbf 😅)
+📫 Feel free to reach **[me](mailto:iprotasio@altyra.com?subject=Hello%20from%20your%20Profile!)** if you think I can help you, plus I would love to learn anything and assist with the best I know (which isn't much tbf 😅)
 
 <!--
 **ivoprotasioAltyra/ivoprotasioAltyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
